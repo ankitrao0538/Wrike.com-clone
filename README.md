@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Wrike.com Clone
 
 Hello everyone we are a group of 4 peoples and we cloned a kimaye website by using HTML, CSS, JS.
@@ -20,3 +21,7 @@ Hello everyone we are a group of 4 peoples and we cloned a kimaye website by usi
 <img src="https://prashant1562.github.io/assets/img/wrike.png" />
 
 
+=======
+# Wrike.com-clone
+Frontend Project: Tech stack HTML, CSS, Javascript
+>>>>>>> b04280099d189e61cdd66399042b986f03f7245c
